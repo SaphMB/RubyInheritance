@@ -4,6 +4,14 @@ class Player
 		attr_accessor :items, :location
 	end
 
-	
+end
+
+class Location
+
+
+end
+
+class Map
+
 
 end
